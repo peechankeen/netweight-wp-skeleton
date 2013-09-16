@@ -1,0 +1,6 @@
+[submodule "mu-plugins/acf"]
+	path = mu-plugins/acf
+	url = https://github.com/elliotcondon/acf
+[submodule "wp"]
+	path = wp
+	url = https://github.com/WordPress/WordPress.git
