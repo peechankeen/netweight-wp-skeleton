@@ -4,3 +4,27 @@
 [submodule "wp"]
 	path = wp
 	url = https://github.com/WordPress/WordPress.git
+[submodule "wp-super-cache-single-cdn"]
+	path = wp-super-cache-single-cdn
+	url = https://github.com/interconnectit/wp-super-cache-single-cdn.git
+[submodule "wordpress-seo"]
+	path = wordpress-seo
+	url = https://github.com/Yoast/wordpress-seo.git
+[submodule "jetpack"]
+	path = jetpack
+	url = https://github.com/wp-plugins/jetpack.git
+[submodule "wp-custom-post-type-ui"]
+	path = wp-custom-post-type-ui
+	url = https://github.com/crowdfavorite-mirrors/wp-custom-post-type-ui.git
+[submodule "duplicator"]
+	path = duplicator
+	url = https://github.com/wp-plugins/duplicator.git
+[submodule "google-analytics-for-wordpress"]
+	path = google-analytics-for-wordpress
+	url = https://github.com/tacoverdo/google-analytics-for-wordpress.git
+[submodule "akismet"]
+	path = akismet
+	url = https://github.com/gawkerverse/mirror-wp-akismet.git
+[submodule "wp-super-cache"]
+	path = wp-super-cache
+	url = https://github.com/crowdfavorite-mirrors/wp-wp-super-cache.git
