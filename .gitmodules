@@ -28,3 +28,9 @@
 [submodule "wp-super-cache"]
 	path = wp-super-cache
 	url = https://github.com/crowdfavorite-mirrors/wp-wp-super-cache.git
+[submodule "mu-plugins/addons"]
+	path = mu-plugins/addons
+	url = https://akovalov@bitbucket.org/akovalov/acf_adonce.git
+[submodule "mu-plugins/wp-addons"]
+	path = mu-plugins/wp-addons
+	url = https://akovalov@bitbucket.org/akovalov/acf_adonce.git
